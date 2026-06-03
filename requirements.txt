@@ -1,0 +1,8 @@
+jupyterlab>=4.0
+notebook>=7.0
+jupyter-book>=1.0
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.1
+seaborn>=0.13
+ipywidgets>=8.1
