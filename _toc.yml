@@ -1,0 +1,8 @@
+format: jb-book
+root: notebooks/index
+chapters:
+  - file: notebooks/01_payoff_matrix
+  - file: notebooks/02_agent_based
+  - file: notebooks/03_monte_carlo_tournament
+  - file: notebooks/04_evolutionary_simulation
+  - file: notebooks/05_comparing_solutions

@@ -1,0 +1,32 @@
+title: "Computer Simulation: Prisoner's Dilemma"
+author: "Methods tutorial"
+logo: ""
+execute:
+  execute_notebooks: "off"
+repository:
+  url: "https://github.com/USER/prisoners-dilemma-simulation-tutorial"
+  path_to_book: ""
+  branch: "main"
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+  extra_footer: "Built with JupyterBook. Interactive cells use Thebe and Binder."
+launch_buttons:
+  binderhub_url: "https://mybinder.org"
+  notebook_interface: "jupyterlab"
+  thebe: true
+thebe_config:
+  repository_url: "https://github.com/USER/prisoners-dilemma-simulation-tutorial"
+  repository_branch: "main"
+  selector: ".thebe, .cell"
+  codemirror-config:
+    theme: "abcdef"
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - dollarmath
+    - linkify
+sphinx:
+  config:
+    html_show_copyright: false
