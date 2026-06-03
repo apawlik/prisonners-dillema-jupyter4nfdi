@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Computer Simulation: Prisoner's Dilemma"
+message: "If you use this tutorial, please cite it."
+type: software
+authors:
+  - family-names: "Tutorial authors"
+version: 0.1.0
+date-released: 2026-06-03
+license: MIT
