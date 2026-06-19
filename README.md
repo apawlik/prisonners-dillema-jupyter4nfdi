@@ -29,35 +29,6 @@ The tutorial uses four complementary simulation solutions:
 * [Jupyter4NFDI](https://nfdi-jupyter.de/)
 * [Axelrod, R. 1984. *The Evolution of Cooperation*](https://www.basicbooks.com/titles/robert-axelrod/the-evolution-of-cooperation/9780465005642/)
 
-## Run locally
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter lab
-```
-
-## Launch with Binder
-
-Once this repository is on GitHub, use repo2binder or a Binder badge of the form:
-
-```text
-https://mybinder.org/v2/gh/<USER>/<REPO>/main?urlpath=lab/tree/notebooks/index.ipynb
-```
-
-## Build the JupyterBook locally
-
-```bash
-pip install -r requirements.txt
-jupyter-book build .
-```
-
-The generated site will be in `_build/html/`.
-
-## GitHub Pages
-
-The workflow in `.github/workflows/deploy-book.yml` builds the book and deploys it to GitHub Pages. Configure repository Pages to deploy from GitHub Actions.
 
 ## Thebe
 
