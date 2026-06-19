@@ -19,7 +19,7 @@ launch_buttons:
 thebe_config:
   repository_url: "https://github.com/apawlik/prisoners-dilemma-simulation-tutorial"
   repository_branch: "main"
-  selector: ".thebe, .cell"
+  selector: ".thebe"
   codemirror-config:
     theme: "abcdef"
 parse:
