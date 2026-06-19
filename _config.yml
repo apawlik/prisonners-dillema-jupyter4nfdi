@@ -4,7 +4,7 @@ logo: ""
 execute:
   execute_notebooks: "off"
 repository:
-  url: "https://github.com/USER/prisoners-dilemma-simulation-tutorial"
+  url: "https://github.com/apawlik/prisoners-dilemma-simulation-tutorial"
   path_to_book: ""
   branch: "main"
 html:
@@ -17,7 +17,7 @@ launch_buttons:
   notebook_interface: "jupyterlab"
   thebe: true
 thebe_config:
-  repository_url: "https://github.com/USER/prisoners-dilemma-simulation-tutorial"
+  repository_url: "https://github.com/apawlik/prisoners-dilemma-simulation-tutorial"
   repository_branch: "main"
   selector: ".thebe, .cell"
   codemirror-config:
