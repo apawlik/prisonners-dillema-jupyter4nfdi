@@ -1,3 +1,7 @@
+[![Launch with Binder](https://img.shields.io/badge/Launch-Binder-orange?logo=jupyter)](
+https://hub.nfdi-jupyter.de/v2/gh/apawlik/prisonners-dillema-jupyter4nfdi/HEAD
+)
+
 # Computer Simulation: Prisoner's Dilemma
 
 A Binder-ready and JupyterBook-ready tutorial repository for learning computer simulation through the Prisoner's Dilemma.
@@ -70,7 +74,5 @@ This repository carries 2 licenses:
   This license covers any code included in this repository, including notebook code cells and scripts.
 
 ## Acknowledgements
-
-**This tutorial follows the repository structure and licensing pattern used by [`apawlik/open-science-jupyter4NFDI`](https://github.com/apawlik/open-science-jupyter4NFDI).**
 
 **This work is supported by Jupyter4NFDI as part of Base4NFDI (DFG project no.521453681).**
