@@ -1,6 +1,5 @@
-[![Launch with Binder](https://img.shields.io/badge/Launch-Binder-orange?logo=jupyter)](
-https://hub.nfdi-jupyter.de/v2/gh/apawlik/prisonners-dillema-jupyter4nfdi/HEAD
-)
+[![Run in Jupyter4NFDI](https://img.shields.io/badge/Run%20in-Jupyter4NFDI-blue?logo=jupyter)](https://hub.nfdi-jupyter.de/v2/gh/apawlik/prisonners-dillema-jupyter4nfdi/HEAD)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apawlik/prisonners-dillema-jupyter4nfdi/HEAD)
 
 # Computer Simulation: Prisoner's Dilemma
 
