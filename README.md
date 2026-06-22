@@ -44,6 +44,10 @@ This repository carries 2 licenses:
 - **Code**: [Apache License 2.0](LICENSE-CODE)  
   This license covers any code included in this repository, including notebook code cells and scripts.
 
-## Acknowledgements
+## AI Use Acknowledgement
+
+Artificial intelligence tools were used during the development of this project. Their use included brainstorming and refining explanations, assisting with the implementation and debugging of Python code, suggesting improvements to the notebook structure, and helping verify that the materials could be executed successfully in a Binder environment. The author accepts full responsibility for the accuracy, originality, and integrity of the final text, code, and referenced materials.
+
+## Funding acknowledgement
 
 **This work is supported by Jupyter4NFDI as part of Base4NFDI (DFG project no.521453681).**
